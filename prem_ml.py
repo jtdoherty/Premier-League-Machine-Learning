@@ -186,7 +186,7 @@ def main():
     try:
         # Initialize predictor
         predictor = PremierLeaguePredictor(
-            r"C:\Git\Premier League Predictions\matches.csv"
+            r"matches.csv"
         )
         
         # Define predictors
